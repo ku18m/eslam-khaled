@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# vCard must keep its CRLF line endings byte-for-byte
+*.vcf -text
