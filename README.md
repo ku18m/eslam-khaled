@@ -27,6 +27,7 @@ The InstaPay tile uses a neutral purple lightning mark. To use the official logo
 - `assets/css/styles.css`, `assets/js/main.js`
 - `assets/img/`: logo mark (transparent), link-preview image, icons. All are cut from `Logo/Logo.jpeg`.
 - `contact.vcf`: the "Save contact" card
+- `qr/`: QR codes pointing to the live URL. Use `eslam-khaled-qr.svg` for printing at any size, `eslam-khaled-qr.png` for a plain 2700px image, or `eslam-khaled-qr-logo.png` for the same with the E|K badge in the center.
 - `.nojekyll`: tells GitHub Pages to serve the files as-is
 
 ## Publishing (one time)
