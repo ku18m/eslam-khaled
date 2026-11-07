@@ -4,7 +4,7 @@
   "use strict";
 
   var EN = {
-    "services": "Barber · Manicure · Fashion",
+    "services": "Hair · Beard · Skin",
     "greeting": "Looking sharp.",
     "pay.title": "Pay",
     "pay.vf": "Vodafone Cash",
@@ -21,7 +21,7 @@
     "follow.tt": "TikTok",
     "follow.tt.hint": "Videos from the chair",
     "lang.label": "Language",
-    "title": "Eslam | Khaled — Barber · Manicure · Fashion"
+    "title": "Eslam | Khaled — Hair · Beard · Skin"
   };
 
   var root = document.documentElement;
